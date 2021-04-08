@@ -1,0 +1,7 @@
+.inProgressTaskList {
+  width: 100%;
+  background: blue;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}

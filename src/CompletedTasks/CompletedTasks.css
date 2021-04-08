@@ -1,0 +1,7 @@
+.CompletedList {
+  width: 100%;
+  background: green;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
